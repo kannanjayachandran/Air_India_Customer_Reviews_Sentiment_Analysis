@@ -1,3 +1,3 @@
 # Air India Customer Reviews Sentiment Analysis
 
-### [NOTEBOOK](./Main_notebook.ipynb)
+> If notebook is giving Invalid Notebook error, open it using vscode.
